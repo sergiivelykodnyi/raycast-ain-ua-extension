@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <channel>
+    <title>AIN.UA</title>
+    <atom:link href="https://ain.ua/feed/" rel="self" type="application/rss+xml" />
+    <link>https://ain.ua</link>
+    <description>Інтернет-бізнес в Україні</description>
+    <lastBuildDate>Sun, 18 Feb 2024 11:02:18 +0000</lastBuildDate>
+    <language>uk</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <generator>https://wordpress.org/?v=6.4.3</generator>
+
+    <image>
+      <url>https://ain.ua/wp-content/uploads/2017/11/cropped-ain-icon-32x32.png</url>
+      <title>AIN.UA</title>
+      <link>https://ain.ua</link>
+      <width>32</width>
+      <height>32</height>
+    </image>
+    <item>
+      <title>Особисті цілі та як правильно їх ставити для успішного досягнення — колонка</title>
+      <link>https://ain.ua/2024/02/18/osobysti-czili-ta-yak-pravylno-yih-stavyty-kolonka/</link>
+      <comments>https://ain.ua/2024/02/18/osobysti-czili-ta-yak-pravylno-yih-stavyty-kolonka/#respond</comments>
+      <pubDate>Sun, 18 Feb 2024 11:02:00 +0000</pubDate>
+      <dc:creator><![CDATA[Марія Молодковець]]></dc:creator>
+
+      <category><![CDATA[Uncategorized]]></category>
+      <category><![CDATA[авторські колонки]]></category>
+      <category><![CDATA[продуктивность]]></category>
+
+      <guid isPermaLink="false">https://ain.ua/?p=1235531</guid>
+      <description><![CDATA[Публікуємо третю, фінальну, колонку спеціаліста з ecommerce-рішень та консультанта з особистої продуктивності та планування Олексія Лункова. У першій він розповів про основні принципи продуктивності та планування. У другій – про прикладні речі: інструмент...]]></description>
+      <content:encoded><![CDATA[Публікуємо третю, фінальну, колонку спеціаліста з ecommerce-рішень та консультанта з особистої продуктивності та планування Олексія Лункова. У першій він розповів про основні принципи продуктивності та планування. У другій – про прикладні речі: інструмент...]]></content:encoded>
+
+      <wfw:commentRss>https://ain.ua/2024/02/18/osobysti-czili-ta-yak-pravylno-yih-stavyty-kolonka/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+
+      <media:content url="https://ain.ua/wp-content/uploads/2024/02/f79884e5eac48e778dbac01cca510436-light-192x135.jpg" type="image/jpeg" medium="image" width="192" height="135">
+        <media:description type="plain"><![CDATA[f79884e5eac48e778dbac01cca510436-light]]></media:description>
+        <media:copyright>Марія Молодковець</media:copyright>
+      </media:content>
+    </item>
+    <item>
+      <title>(Не)приватні розмови. Як захиститися від прослуховування телефона – дослідження Molfar</title>
+      <link>https://ain.ua/2024/02/17/nepryvatni-rozmovy-prosluhovuvannya-telefoniv-ta-yak-vid-czogo-zahystytys/</link>
+      <comments>https://ain.ua/2024/02/17/nepryvatni-rozmovy-prosluhovuvannya-telefoniv-ta-yak-vid-czogo-zahystytys/#respond</comments>
+      <pubDate>Sat, 17 Feb 2024 11:06:15 +0000</pubDate>
+      <dc:creator><![CDATA[AIN.UA]]></dc:creator>
+
+      <category><![CDATA[Uncategorized]]></category>
+      <category><![CDATA[дослідження]]></category>
+      <category><![CDATA[новини]]></category>
+      <category><![CDATA[соціальні мережі]]></category>
+
+      <guid isPermaLink="false">https://ain.ua/?p=1235438</guid>
+      <description><![CDATA[Нещодавно OSINT-агенція Molfar опублікувала дослідження про безпеку телефонних застосунків для дзвінків, прослуховування розмов, а також поради про те, як цього уникнути. З дозволу Molfar публікуємо дослідження на AIN.UA. Телефонні розмови нині можуть лег...]]></description>
+      <content:encoded><![CDATA[Нещодавно OSINT-агенція Molfar опублікувала дослідження про безпеку телефонних застосунків для дзвінків, прослуховування розмов, а також поради про те, як цього уникнути. З дозволу Molfar публікуємо дослідження на AIN.UA. Телефонні розмови нині можуть лег...]]></content:encoded>
+
+      <wfw:commentRss>https://ain.ua/2024/02/17/nepryvatni-rozmovy-prosluhovuvannya-telefoniv-ta-yak-vid-czogo-zahystytys/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+
+      <media:content url="https://ain.ua/wp-content/uploads/2024/02/a3a59a7a48f009d5d83257bf0fa877da-dark-192x135.jpg" type="image/jpeg" medium="image" width="192" height="135">
+        <media:description type="plain"><![CDATA[a3a59a7a48f009d5d83257bf0fa877da-dark]]></media:description>
+        <media:copyright>AIN.UA</media:copyright>
+      </media:content>
+    </item>
+    <item>
+      <title>Уряд підтримав створення освітнього застосунку «Мрія»</title>
+      <link>https://ain.ua/2024/02/16/v-ukrayini-zyavytsya-osvitnij-zastosunok-mriya/</link>
+      <comments>https://ain.ua/2024/02/16/v-ukrayini-zyavytsya-osvitnij-zastosunok-mriya/#respond</comments>
+      <pubDate>Fri, 16 Feb 2024 16:30:00 +0000</pubDate>
+      <dc:creator><![CDATA[Віра Олійник]]></dc:creator>
+
+      <category><![CDATA[Uncategorized]]></category>
+      <category><![CDATA[держава]]></category>
+      <category><![CDATA[новини]]></category>
+      <category><![CDATA[освіта]]></category>
+
+      <guid isPermaLink="false">https://ain.ua/?p=1235543</guid>
+      <description><![CDATA[Уряд України підтримав запуск освітнього застосунку «Мрія», повідомили у Мінцифри. У ньому зокрема буде електронний учнівський квиток, який працюватиме за аналогією з документами в «Дії». Застосунок буде доступний для учнів, вчителів та батьків. Які функц...]]></description>
+      <content:encoded><![CDATA[Уряд України підтримав запуск освітнього застосунку «Мрія», повідомили у Мінцифри. У ньому зокрема буде електронний учнівський квиток, який працюватиме за аналогією з документами в «Дії». Застосунок буде доступний для учнів, вчителів та батьків. Які функц...]]></content:encoded>
+
+      <wfw:commentRss>https://ain.ua/2024/02/16/v-ukrayini-zyavytsya-osvitnij-zastosunok-mriya/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+
+      <media:content url="https://ain.ua/wp-content/uploads/2024/02/f8c92fb5-9459-428d-9eba-8511072ce035-192x135.jpg" type="image/jpeg" medium="image" width="192" height="135">
+        <media:description type="plain"><![CDATA[Мрія ID]]></media:description>
+        <media:copyright>Віра Олійник</media:copyright>
+      </media:content>
+    </item>
+    <item>
+      <title>Відтепер українці можуть подавати звіти про ремонт пошкодженого житла на порталі «Дія»</title>
+      <link>https://ain.ua/2024/02/16/zvity-pro-remont-poshkodzhenogo-zhytla-na-portali-diya/</link>
+      <comments>https://ain.ua/2024/02/16/zvity-pro-remont-poshkodzhenogo-zhytla-na-portali-diya/#respond</comments>
+      <pubDate>Fri, 16 Feb 2024 16:05:00 +0000</pubDate>
+      <dc:creator><![CDATA[Віра Олійник]]></dc:creator>
+
+      <category><![CDATA[Uncategorized]]></category>
+      <category><![CDATA[війна]]></category>
+      <category><![CDATA[Дія]]></category>
+      <category><![CDATA[новини]]></category>
+
+      <guid isPermaLink="false">https://ain.ua/?p=1235493</guid>
+      <description><![CDATA[Відтепер українці, які отримали виплати за програмою «єВідновлення» на ремонт пошкодженого житла, можуть подати звіт про виконані роботи на порталі «Дія». Ця послуга раніше була доступна лише в застосунку. Кому потрібно подавати звіт про відновлення житла...]]></description>
+      <content:encoded><![CDATA[Відтепер українці, які отримали виплати за програмою «єВідновлення» на ремонт пошкодженого житла, можуть подати звіт про виконані роботи на порталі «Дія». Ця послуга раніше була доступна лише в застосунку. Кому потрібно подавати звіт про відновлення житла...]]></content:encoded>
+
+      <wfw:commentRss>https://ain.ua/2024/02/16/zvity-pro-remont-poshkodzhenogo-zhytla-na-portali-diya/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+
+      <media:content url="https://ain.ua/wp-content/uploads/2024/02/339092233_1974347672993323_1851722896064460858_n-192x135.jpg" type="image/jpeg" medium="image" width="192" height="135">
+        <media:description type="plain"><![CDATA[Дія]]></media:description>
+        <media:copyright>Віра Олійник</media:copyright>
+      </media:content>
+    </item>
+    <item>
+      <title>США розгортають масштабну супутникову програму для протидії загрозам від росії</title>
+      <link>https://ain.ua/2024/02/16/ssha-suputnykova-programa/</link>
+      <comments>https://ain.ua/2024/02/16/ssha-suputnykova-programa/#respond</comments>
+      <pubDate>Fri, 16 Feb 2024 15:35:00 +0000</pubDate>
+      <dc:creator><![CDATA[Віра Олійник]]></dc:creator>
+
+      <category><![CDATA[Uncategorized]]></category>
+      <category><![CDATA[космос]]></category>
+      <category><![CDATA[новини]]></category>
+
+      <guid isPermaLink="false">https://ain.ua/?p=1235473</guid>
+      <description><![CDATA[Пентагон вивів на орбіту Землі групу невеликих та дешевих супутників. Як пише у статті The New Your Times, це робиться для протидії загрозам з космосу, які створюють росія та Китай. Що сталося? Новини про це з&#8217;явилися незадовго після повідомлення пр...]]></description>
+      <content:encoded><![CDATA[Пентагон вивів на орбіту Землі групу невеликих та дешевих супутників. Як пише у статті The New Your Times, це робиться для протидії загрозам з космосу, які створюють росія та Китай. Що сталося? Новини про це з&#8217;явилися незадовго після повідомлення пр...]]></content:encoded>
+
+      <wfw:commentRss>https://ain.ua/2024/02/16/ssha-suputnykova-programa/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+
+      <media:content url="https://ain.ua/wp-content/uploads/2024/02/240214-d-d0439-0976-192x135.jpg" type="image/jpeg" medium="image" width="192" height="135">
+        <media:description type="plain"><![CDATA[240214-D-D0439-0976]]></media:description>
+        <media:copyright>Віра Олійник</media:copyright>
+      </media:content>
+    </item>
+    <item>
+      <title>«За грошима — це до нас». Дмитро Вартанян з SID Venture Partners — про останні угоди, плани на 2024 і правильний пітч</title>
+      <link>https://ain.ua/2024/02/16/dmytro-vartanyan-sid-venture-partners-interview/</link>
+      <comments>https://ain.ua/2024/02/16/dmytro-vartanyan-sid-venture-partners-interview/#respond</comments>
+      <pubDate>Fri, 16 Feb 2024 14:02:00 +0000</pubDate>
+      <dc:creator><![CDATA[Олександр Стрельников]]></dc:creator>
+
+      <category><![CDATA[Uncategorized]]></category>
+      <category><![CDATA[авторські]]></category>
+      <category><![CDATA[венчурні фонди]]></category>
+      <category><![CDATA[інтерв'ю]]></category>
+
+      <guid isPermaLink="false">https://ain.ua/?p=1235476</guid>
+      <description><![CDATA[У новому інтервʼю AIN.UA керівний генеральний партнер SID Venture Partners Дмитро Вартанян розповідає про запуск напрямку синдикативних угод, плани інвестувати впродовж 2024 року не менше ніж $2-3 мільйони, його особисте визначення правильного пітчу від с...]]></description>
+      <content:encoded><![CDATA[У новому інтервʼю AIN.UA керівний генеральний партнер SID Venture Partners Дмитро Вартанян розповідає про запуск напрямку синдикативних угод, плани інвестувати впродовж 2024 року не менше ніж $2-3 мільйони, його особисте визначення правильного пітчу від с...]]></content:encoded>
+
+      <wfw:commentRss>https://ain.ua/2024/02/16/dmytro-vartanyan-sid-venture-partners-interview/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+
+      <media:content url="https://ain.ua/wp-content/uploads/2024/02/photo_2024-02-16-10.44.31-1-192x135.jpeg" type="image/jpeg" medium="image" width="192" height="135">
+        <media:description type="plain"><![CDATA[photo_2024-02-16 10.44.31]]></media:description>
+        <media:copyright>Олександр Стрельников</media:copyright>
+      </media:content>
+    </item>
+    <item>
+      <title>Xbox поділиться чотирма ексклюзивами із PS5 і Nintendo. Та натякає на нову консоль</title>
+      <link>https://ain.ua/2024/02/16/deyaki-eksklyuzyvni-gry-xbox-zyavlyatsya-na-ps5-ta-nintendo/</link>
+      <comments>https://ain.ua/2024/02/16/deyaki-eksklyuzyvni-gry-xbox-zyavlyatsya-na-ps5-ta-nintendo/#respond</comments>
+      <pubDate>Fri, 16 Feb 2024 13:15:00 +0000</pubDate>
+      <dc:creator><![CDATA[Віра Олійник]]></dc:creator>
+
+      <category><![CDATA[Uncategorized]]></category>
+      <category><![CDATA[комп'ютерні ігри]]></category>
+      <category><![CDATA[новини]]></category>
+
+      <guid isPermaLink="false">https://ain.ua/?p=1235437</guid>
+      <description><![CDATA[Microsoft зробить чотири ексклюзивні відеоігри для Xbox доступними для консолей конкурентів – PlayStation та Nintendo Switch. Про це повідомив генеральний директор Microsoft Gaming Філ Спенсер на офіційному подкасті Xbox. Крім того, він натякнув на вихід ...]]></description>
+      <content:encoded><![CDATA[Microsoft зробить чотири ексклюзивні відеоігри для Xbox доступними для консолей конкурентів – PlayStation та Nintendo Switch. Про це повідомив генеральний директор Microsoft Gaming Філ Спенсер на офіційному подкасті Xbox. Крім того, він натякнув на вихід ...]]></content:encoded>
+
+      <wfw:commentRss>https://ain.ua/2024/02/16/deyaki-eksklyuzyvni-gry-xbox-zyavlyatsya-na-ps5-ta-nintendo/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+
+      <media:content url="https://ain.ua/wp-content/uploads/2024/02/3d33132a9800d01f16b144123752334b-dark-192x135.jpg" type="image/jpeg" medium="image" width="192" height="135">
+        <media:description type="plain"><![CDATA[3d33132a9800d01f16b144123752334b-dark]]></media:description>
+        <media:copyright>Віра Олійник</media:copyright>
+      </media:content>
+    </item>
+    <item>
+      <title>«Електронний помічник», нова тара та пакування без скотчу – чотири нові розробки «Нової Пошти»</title>
+      <link>https://ain.ua/2024/02/16/elektronnyj-pomichnyk-nova-tara-ta-pakuvannya-bez-skotchu-u-novij-poshti-pokazaly-novi-rozrobky/</link>
+      <comments>https://ain.ua/2024/02/16/elektronnyj-pomichnyk-nova-tara-ta-pakuvannya-bez-skotchu-u-novij-poshti-pokazaly-novi-rozrobky/#respond</comments>
+      <pubDate>Fri, 16 Feb 2024 12:02:00 +0000</pubDate>
+      <dc:creator><![CDATA[Софія Єлагіна]]></dc:creator>
+
+      <category><![CDATA[Uncategorized]]></category>
+      <category><![CDATA[авторські]]></category>
+      <category><![CDATA[Нова Пошта]]></category>
+      <category><![CDATA[Техно]]></category>
+
+      <guid isPermaLink="false">https://ain.ua/?p=1235330</guid>
+      <description><![CDATA[14 лютого в Києві в студії NovaTech відбувся R&amp;D DemoDay. Компанія показала вісім рішень, які мають заощаджувати час і клієнтам, і співробітникам. Деякі з нових девайсів як пілотні проєкти вже можна побачити у відділеннях «Нової Пошти». Наприкінці зах...]]></description>
+      <content:encoded><![CDATA[14 лютого в Києві в студії NovaTech відбувся R&amp;D DemoDay. Компанія показала вісім рішень, які мають заощаджувати час і клієнтам, і співробітникам. Деякі з нових девайсів як пілотні проєкти вже можна побачити у відділеннях «Нової Пошти». Наприкінці зах...]]></content:encoded>
+
+      <wfw:commentRss>https://ain.ua/2024/02/16/elektronnyj-pomichnyk-nova-tara-ta-pakuvannya-bez-skotchu-u-novij-poshti-pokazaly-novi-rozrobky/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+
+      <media:content url="https://ain.ua/wp-content/uploads/2024/02/fd45290c627c7f80db150a96dc0c6d51-darken-192x135.jpg" type="image/jpeg" medium="image" width="192" height="135">
+        <media:description type="plain"><![CDATA[fd45290c627c7f80db150a96dc0c6d51-darken]]></media:description>
+        <media:copyright>Софія Єлагіна</media:copyright>
+      </media:content>
+    </item>
+    <item>
+      <title>X надає відмітки верифікації терористичним групам – звіт</title>
+      <link>https://ain.ua/2024/02/16/x-nadaye-vidmitky-veryfikacziyi-terorystychnym-grupam-takym-yak-hezbolla-zvit/</link>
+      <comments>https://ain.ua/2024/02/16/x-nadaye-vidmitky-veryfikacziyi-terorystychnym-grupam-takym-yak-hezbolla-zvit/#respond</comments>
+      <pubDate>Fri, 16 Feb 2024 10:58:00 +0000</pubDate>
+      <dc:creator><![CDATA[Віра Олійник]]></dc:creator>
+
+      <category><![CDATA[Uncategorized]]></category>
+      <category><![CDATA[Twitter]]></category>
+      <category><![CDATA[новини]]></category>
+
+      <guid isPermaLink="false">https://ain.ua/?p=1235421</guid>
+      <description><![CDATA[Соціальна мережа Х, яка належить Ілону Маску, надає свої преміумпослуги, включаючи відмітки верифікації, забороненим угрупуванням і терористичним групам, таким як «Хезболла». Про це йдеться у звіті некомерційної організації Tech Transparency Project (TTP)...]]></description>
+      <content:encoded><![CDATA[Соціальна мережа Х, яка належить Ілону Маску, надає свої преміумпослуги, включаючи відмітки верифікації, забороненим угрупуванням і терористичним групам, таким як «Хезболла». Про це йдеться у звіті некомерційної організації Tech Transparency Project (TTP)...]]></content:encoded>
+
+      <wfw:commentRss>https://ain.ua/2024/02/16/x-nadaye-vidmitky-veryfikacziyi-terorystychnym-grupam-takym-yak-hezbolla-zvit/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+
+      <media:content url="https://ain.ua/wp-content/uploads/2024/02/0c80450bde2c293de5254527c6ab60cd-light-192x135.jpg" type="image/jpeg" medium="image" width="192" height="135">
+        <media:description type="plain"><![CDATA[0c80450bde2c293de5254527c6ab60cd-light]]></media:description>
+        <media:copyright>Віра Олійник</media:copyright>
+      </media:content>
+    </item>
+    <item>
+      <title>Куди поїхати з Києва на вихідні?</title>
+      <link>https://ain.ua/special/kudy-poyikhaty-z-kyyeva-na-vykhidni/</link>
+      <comments>https://ain.ua/2024/02/16/kudy-poyihaty-z-kyyeva-na-vyhidni/#respond</comments>
+      <pubDate>Fri, 16 Feb 2024 10:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[AIN.UA SPECIAL]]></dc:creator>
+
+      <category><![CDATA[Спецпроекты]]></category>
+      <category><![CDATA[спецпроекти]]></category>
+
+      <guid isPermaLink="false">https://ain.ua/?p=1235397</guid>
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+
+      <wfw:commentRss>https://ain.ua/2024/02/16/kudy-poyihaty-z-kyyeva-na-vyhidni/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+
+      <media:content url="https://ain.ua/wp-content/uploads/2024/02/opengraph-ain.ua-17-192x135.png" type="image/png" medium="image" width="192" height="135">
+        <media:description type="plain"><![CDATA[opengraph-ain.ua (17)]]></media:description>
+        <media:copyright>AIN.UA SPECIAL</media:copyright>
+      </media:content>
+    </item>
+    <item>
+      <title>Гру Tomb Raider Remastered перемальовували росіяни</title>
+      <link>https://ain.ua/2024/02/16/tomb-raider-remastered-rosiyany/</link>
+      <comments>https://ain.ua/2024/02/16/tomb-raider-remastered-rosiyany/#respond</comments>
+      <pubDate>Fri, 16 Feb 2024 09:34:00 +0000</pubDate>
+      <dc:creator><![CDATA[Марія Молодковець]]></dc:creator>
+
+      <category><![CDATA[Uncategorized]]></category>
+      <category><![CDATA[ігри]]></category>
+      <category><![CDATA[комп'ютерні ігри]]></category>
+      <category><![CDATA[новини]]></category>
+
+      <guid isPermaLink="false">https://ain.ua/?p=1235425</guid>
+      <description><![CDATA[14 лютого вийшов ремастер класичних ігор Tomb Raider, перероблена компіляція перших трьох ігор про Лару Крофт: Tomb Raider (1996 року), Tomb Raider II (1997 року) і Tomb Raider III (1998 року). Ремастером класичної серії від британської студії Core Design...]]></description>
+      <content:encoded><![CDATA[14 лютого вийшов ремастер класичних ігор Tomb Raider, перероблена компіляція перших трьох ігор про Лару Крофт: Tomb Raider (1996 року), Tomb Raider II (1997 року) і Tomb Raider III (1998 року). Ремастером класичної серії від британської студії Core Design...]]></content:encoded>
+
+      <wfw:commentRss>https://ain.ua/2024/02/16/tomb-raider-remastered-rosiyany/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+
+      <media:content url="https://ain.ua/wp-content/uploads/2024/02/capsule_616x353-192x135.jpg" type="image/jpeg" medium="image" width="192" height="135">
+        <media:description type="plain"><![CDATA[capsule_616x353]]></media:description>
+        <media:copyright>Марія Молодковець</media:copyright>
+      </media:content>
+    </item>
+    <item>
+      <title>«Робота надихає, але я без рожевих окулярів». Гороховський про Раду з підтримки бізнесу та зустріч з президентом</title>
+      <link>https://ain.ua/2024/02/16/persha-zustrich-zelenskogo-z-radoyu-pidtrymky-biznesu/</link>
+      <comments>https://ain.ua/2024/02/16/persha-zustrich-zelenskogo-z-radoyu-pidtrymky-biznesu/#respond</comments>
+      <pubDate>Fri, 16 Feb 2024 08:59:00 +0000</pubDate>
+      <dc:creator><![CDATA[Віра Олійник]]></dc:creator>
+
+      <category><![CDATA[Uncategorized]]></category>
+      <category><![CDATA[держава]]></category>
+      <category><![CDATA[новини]]></category>
+
+      <guid isPermaLink="false">https://ain.ua/?p=1235412</guid>
+      <description><![CDATA[Вчора, 15 лютого, відбулася перша зустріч президента України Володимира Зеленського з Радою з питань підтримки підприємництва в умовах воєнного стану. Про її підсумки розповів один з учасників, співзасновник monobank Олег Гороховський. Він зазначив, що до...]]></description>
+      <content:encoded><![CDATA[Вчора, 15 лютого, відбулася перша зустріч президента України Володимира Зеленського з Радою з питань підтримки підприємництва в умовах воєнного стану. Про її підсумки розповів один з учасників, співзасновник monobank Олег Гороховський. Він зазначив, що до...]]></content:encoded>
+
+      <wfw:commentRss>https://ain.ua/2024/02/16/persha-zustrich-zelenskogo-z-radoyu-pidtrymky-biznesu/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+
+      <media:content url="https://ain.ua/wp-content/uploads/2024/02/dd7e3991571df637206ef5b89d574447-light-192x135.jpg" type="image/jpeg" medium="image" width="192" height="135">
+        <media:description type="plain"><![CDATA[dd7e3991571df637206ef5b89d574447-light]]></media:description>
+        <media:copyright>Віра Олійник</media:copyright>
+      </media:content>
+    </item>
+    <item>
+      <title>OpenAI випустила нейромережу Sora, яка перетворює текст на реалістичні відео</title>
+      <link>https://ain.ua/2024/02/16/openai-vypustyla-sora/</link>
+      <comments>https://ain.ua/2024/02/16/openai-vypustyla-sora/#respond</comments>
+      <pubDate>Fri, 16 Feb 2024 08:07:00 +0000</pubDate>
+      <dc:creator><![CDATA[Віра Олійник]]></dc:creator>
+
+      <category><![CDATA[Uncategorized]]></category>
+      <category><![CDATA[OpenAI]]></category>
+      <category><![CDATA[новини]]></category>
+      <category><![CDATA[штучний інтелект]]></category>
+
+      <guid isPermaLink="false">https://ain.ua/?p=1235401</guid>
+      <description><![CDATA[OpenAI представила нову систему штучного інтелекту під назвою Sora, яка генерує реалістичні відео на основі текстового опису. Sora може створювати ролики тривалістю до хвилини, «з високою якістю зображення та чітким дотриманням запиту користувача». OpenAI...]]></description>
+      <content:encoded><![CDATA[OpenAI представила нову систему штучного інтелекту під назвою Sora, яка генерує реалістичні відео на основі текстового опису. Sora може створювати ролики тривалістю до хвилини, «з високою якістю зображення та чітким дотриманням запиту користувача». OpenAI...]]></content:encoded>
+
+      <wfw:commentRss>https://ain.ua/2024/02/16/openai-vypustyla-sora/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+
+    </item>
+    <item>
+      <title>Зеленський підписав закон про легалізацію медичного канабісу</title>
+      <link>https://ain.ua/2024/02/15/zelenskyj-pidpysav-zakon-pro-legalizacziyu-medychnogo-kanabisu-zapraczyuye-u-lypni/</link>
+      <comments>https://ain.ua/2024/02/15/zelenskyj-pidpysav-zakon-pro-legalizacziyu-medychnogo-kanabisu-zapraczyuye-u-lypni/#respond</comments>
+      <pubDate>Thu, 15 Feb 2024 17:53:04 +0000</pubDate>
+      <dc:creator><![CDATA[Віра Олійник]]></dc:creator>
+
+      <category><![CDATA[Uncategorized]]></category>
+      <category><![CDATA[держава]]></category>
+      <category><![CDATA[новини]]></category>
+
+      <guid isPermaLink="false">https://ain.ua/?p=1235386</guid>
+      <description><![CDATA[Президент України Володимир Зеленський 13 лютого підписав закон про регулювання обігу медичного канабісу для створення умов щодо розширення доступу пацієнтів до необхідного лікування онкології та отриманих внаслідок війни посттравматичних стресових розлад...]]></description>
+      <content:encoded><![CDATA[Президент України Володимир Зеленський 13 лютого підписав закон про регулювання обігу медичного канабісу для створення умов щодо розширення доступу пацієнтів до необхідного лікування онкології та отриманих внаслідок війни посттравматичних стресових розлад...]]></content:encoded>
+
+      <wfw:commentRss>https://ain.ua/2024/02/15/zelenskyj-pidpysav-zakon-pro-legalizacziyu-medychnogo-kanabisu-zapraczyuye-u-lypni/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+
+      <media:content url="https://ain.ua/wp-content/uploads/2024/02/bae1a80a340aa61adfe2881a13c86b98-darken-192x135.jpg" type="image/jpeg" medium="image" width="192" height="135">
+        <media:description type="plain"><![CDATA[bae1a80a340aa61adfe2881a13c86b98-darken]]></media:description>
+        <media:copyright>Віра Олійник</media:copyright>
+      </media:content>
+    </item>
+    <item>
+      <title>Українці зможуть отримувати перекази у польських злотих у «ПриватБанк»</title>
+      <link>https://ain.ua/2024/02/15/perekazy-u-polskyh-zlotyh-cherez-privatmoney/</link>
+      <comments>https://ain.ua/2024/02/15/perekazy-u-polskyh-zlotyh-cherez-privatmoney/#respond</comments>
+      <pubDate>Thu, 15 Feb 2024 16:38:00 +0000</pubDate>
+      <dc:creator><![CDATA[Віра Олійник]]></dc:creator>
+
+      <category><![CDATA[Uncategorized]]></category>
+      <category><![CDATA[новини]]></category>
+      <category><![CDATA[Польща]]></category>
+      <category><![CDATA[Приват24]]></category>
+      <category><![CDATA[ПриватБанк]]></category>
+
+      <guid isPermaLink="false">https://ain.ua/?p=1235373</guid>
+      <description><![CDATA[«ПриватБанк» та європейський фінтех-сервіс zen.com оголосили про спільний запуск нового сервісу. Завдяки цьому українці зможуть отримувати грошові перекази у польських злотих через систему PrivatMoney. Отримати переказ у «ПриватБанку» можна як у гривні на...]]></description>
+      <content:encoded><![CDATA[«ПриватБанк» та європейський фінтех-сервіс zen.com оголосили про спільний запуск нового сервісу. Завдяки цьому українці зможуть отримувати грошові перекази у польських злотих через систему PrivatMoney. Отримати переказ у «ПриватБанку» можна як у гривні на...]]></content:encoded>
+
+      <wfw:commentRss>https://ain.ua/2024/02/15/perekazy-u-polskyh-zlotyh-cherez-privatmoney/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+
+      <media:content url="https://ain.ua/wp-content/uploads/2024/02/untitled-192x135.png" type="image/png" medium="image" width="192" height="135">
+        <media:description type="plain"><![CDATA[Untitled]]></media:description>
+        <media:copyright>Віра Олійник</media:copyright>
+      </media:content>
+    </item>
+  </channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using Redis
+Minified using Disk
+
+Served from: ain.ua @ 2024-02-18 13:02:18 by W3 Total Cache
+-->
